@@ -1,0 +1,2 @@
+# twitchcookieclicker
+spam !clic
